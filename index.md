@@ -1,11 +1,3 @@
-<!-- index.md -->
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <link rel="stylesheet" type="text/css" href="styles.css">
-</head>
-<body>
-
 # Frequently Asked Questions (FAQ)
 
 ## 1. What is Riddlepedia?
@@ -35,8 +27,6 @@ To create a riddle, go to the "My Riddle" section and click on the "Create Riddl
 ## 9. How can I participate in contests?
 You can participate in contests by navigating to the "Contest" section. Follow the instructions to join an ongoing contest and submit your answers.
 
-</body>
-</html>
 ## 10. Where can I find more information about Riddlepedia?
 For more information about Riddlepedia, visit the "About" section in the Settings page. You will find details about the app and its features.
 
