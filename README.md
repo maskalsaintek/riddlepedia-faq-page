@@ -1,3 +1,11 @@
+<!-- index.md -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    
 # Frequently Asked Questions (FAQ)
 
 ## 1. What is Riddlepedia?
@@ -32,3 +40,6 @@ For more information about Riddlepedia, visit the "About" section in the Setting
 
 ## 11. Who can I contact for support?
 If you need any help or support, please contact us at support@riddlepedia.com. We are here to assist you with any questions or issues you may have.
+
+</body>
+</html>
