@@ -1,7 +1,5 @@
-# Frequently Asked Questions (FAQ)
-
 ## 1. What is Riddlepedia?
-Riddlepedia is an interactive mobile application where users can solve and create riddles. It offers a platform for users to challenge their minds and share riddles with a community of enthusiasts.
+<p align="justify">Riddlepedia is an interactive mobile application where users can solve and create riddles. It offers a platform for users to challenge their minds and share riddles with a community of enthusiasts.</p>
 
 ## 2. How do I create an account?
 To create an account, navigate to the Register page, enter your email, create a password, and confirm your password. You can also register using your Facebook or Google account for easier access.
