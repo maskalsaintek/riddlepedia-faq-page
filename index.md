@@ -26,7 +26,7 @@
 <p align="justify">You can participate in contests by navigating to the "Contest" section. Follow the instructions to join an ongoing contest and submit your answers.</p>
 
 ## 10. Where can I find more information about Riddlepedia?
-For more information about Riddlepedia, visit the "About" section in the Settings page. You will find details about the app and its features.
+<p align="justify">For more information about Riddlepedia, visit the "About" section in the Settings page. You will find details about the app and its features.</p>
 
 ## 11. Who can I contact for support?
-If you need any help or support, please contact us at support@riddlepedia.com. We are here to assist you with any questions or issues you may have.
+<p align="justify">If you need any help or support, please contact us at support@riddlepedia.com. We are here to assist you with any questions or issues you may have.</p>
